@@ -1,1 +1,1 @@
-# Python-Study-Group-Hands-On-Practice-Exercie.
+# Python-Study-Group-Hands-On-Practice-Exercie First Semester.
